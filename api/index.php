@@ -1,4 +1,3 @@
 <?php
 
-echo "API PHP BERJALAN";
-exit;
+require __DIR__.'/../public/index.php';
